@@ -17,3 +17,7 @@ Ejercicios para aprender a usar numpy
 Scripts para ejercicios.py
 * [PandasExcercises.ipynb](PandasExcercises.ipynb)
 Ejercicios para aprender a usar pandas
+
+#### Sesión 29/10/2019
+* [DataSetCleaning.ipynb](DataSetCleaning.ipynb)
+Ejercicios para aprender a limpiar y transformar un DataSet de imágenes y sus etiquetas
