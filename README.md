@@ -23,15 +23,15 @@ Ejercicios para aprender a usar pandas
 Ejercicios para aprender a limpiar y transformar un DataSet de imágenes y sus etiquetas
 
 #### Sesión 30/10/2019
-* No hubo entregables, pero se estuvieron probando varias configuraciones para el entrenamiento
-
-#### Sesión 31/10/2019
 * [faster_rcnn_resnet101_coco.config](faster_rcnn_resnet101_coco.config)
 Último archivo de configuración probado para el entrenamiento
 
-#### Sesión 01/11/2019
+#### Sesión 31/10/2019
 * [output/images](output/images)
 Imágenes que se corrieron por la red para el reconocimiento de caras
+
+#### Sesión 01/11/2019
+* Equipo 9 score: 11.02%
 
 ##### We had some pretty good results in some images:
 <img src="output/images/Kanye-TI.jpg" width="50%">.
