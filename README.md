@@ -31,7 +31,7 @@ Ejercicios para aprender a limpiar y transformar un DataSet de imágenes y sus e
 Imágenes que se corrieron por la red para el reconocimiento de caras
 
 #### Sesión 01/11/2019
-* Equipo 9 score: 11.02%
+* Equipo 8 score: 11.02%
 
 ##### We had some pretty good results in some images:
 <img src="output/images/Kanye-TI.jpg" width="50%">.
